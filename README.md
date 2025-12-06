@@ -11,7 +11,7 @@
 - **google_drive.py** -> Used to push CSV files to a specific folder on Google Drive using API
 
 # Visualization
-![visual](visualization.png)
+![visual](visual.png)
 
 # Preview of Output
 
