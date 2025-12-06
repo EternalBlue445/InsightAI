@@ -16,10 +16,3 @@
 # Preview of Output
 
 - **index.html** is a GPT-generated file that takes CSV as input and generates a table on the browser with the contents of the CSV file.
-
-# Output
-
-- The **output** folder contains:  
-  * `summaries.csv`  
-  * `setup guide google drive integration.pdf`  
-  * `video.mkv`
