@@ -1,7 +1,7 @@
 # Assumptions
 
 1. Only images are given in a folder.  
-2. I was asked to provide titles and links alongside summaries in a CSV file. So, I included the news titles and links but I don't think they are relevant in this context.  
+2. I provided titles and links of each news alongside summaries in a CSV file.  
    * "title_link.json" contains the titles and links.
 
 # Execution
