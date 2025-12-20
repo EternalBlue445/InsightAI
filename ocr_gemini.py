@@ -20,7 +20,7 @@ class GeminiOCR:
         return response.text
 
     
-    def extract_text(self, image_path, language, ):
+    def extract_text(self, image_path, language ):
         try:
             png_image = Image.open(image_path)
             prompt = f"Whats written in this image in {language}. Give me only the OCR text."
